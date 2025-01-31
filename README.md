@@ -28,5 +28,5 @@ The application uses the following dependencies:
 1. Clone the repository.
 2. Configure your `application.properties` with the correct database connection details.
 3. Run the application using your preferred IDE or the command line.
-4. Access the application via `http://localhost:8080`.
+4. Access the application via `http://localhost:8080/register`.
 
